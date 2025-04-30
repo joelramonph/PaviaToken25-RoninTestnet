@@ -4,5 +4,5 @@
     "decimals": 18,
     "description": "Token educativo desplegado en Ronin Saigon Testnet",
     "source": "https://github.com/joelramonph/PaviaToken25-RoninTestnet.git",
-    "imagen": "https://gateway.pinata.cloud/ipfs/bafkreigqzzh3ssrbsjphkpzh76x4cfa32mhthgqzdexy7u2qibhw3ibkra"
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreigqzzh3ssrbsjphkpzh76x4cfa32mhthgqzdexy7u2qibhw3ibkra"
 }
